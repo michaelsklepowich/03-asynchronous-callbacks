@@ -1,0 +1,20 @@
+{
+  "name": "lab-michael",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "do the test",
+    "start": "node ./lib/reader.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "fs": "0.0.1-security"
+  }
+}
